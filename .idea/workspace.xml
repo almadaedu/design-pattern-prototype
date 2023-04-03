@@ -1,14 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="4e38bb1e-a720-4b54-8658-81dad897f402" name="Changes" comment="" />
+    <list default="true" id="4e38bb1e-a720-4b54-8658-81dad897f402" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Farmer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Tool.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/FarmerTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ToolTest.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
@@ -29,6 +52,67 @@
     "RunOnceActivity.ShowReadmeOnStart": "true"
   }
 }]]></component>
+  <component name="RunManager" selected="JUnit.FarmerTest.mustReturnToolDescription">
+    <configuration name="FarmerTest.mustReturnJob" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Prototype" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="FarmerTest" />
+      <option name="METHOD_NAME" value="mustReturnJob" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FarmerTest.mustReturnToolDescription" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Prototype" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="FarmerTest" />
+      <option name="METHOD_NAME" value="mustReturnToolDescription" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ToolTest.mustReturnMaterial" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Prototype" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="ToolTest" />
+      <option name="METHOD_NAME" value="mustReturnMaterial" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ToolTest.mustReturnToolDescription" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Prototype" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="ToolTest" />
+      <option name="METHOD_NAME" value="mustReturnToolDescription" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ToolTest.mustReturnToolType" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Prototype" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="ToolTest" />
+      <option name="METHOD_NAME" value="mustReturnToolType" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.FarmerTest.mustReturnToolDescription" />
+        <item itemvalue="JUnit.FarmerTest.mustReturnJob" />
+        <item itemvalue="JUnit.ToolTest.mustReturnMaterial" />
+        <item itemvalue="JUnit.ToolTest.mustReturnToolType" />
+        <item itemvalue="JUnit.ToolTest.mustReturnToolDescription" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
